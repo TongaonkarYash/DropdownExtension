@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DropdownExtension
 
 [![CI Status](https://img.shields.io/travis/yashtongaonkar/DropdownExtension.svg?style=flat)](https://travis-ci.org/yashtongaonkar/DropdownExtension)
@@ -27,3 +28,6 @@ yashtongaonkar, yashtongaonkar@gmail.com
 ## License
 
 DropdownExtension is available under the MIT license. See the LICENSE file for more info.
+=======
+# DropdownExtension
+>>>>>>> db908e40a69a1b4e4275b50281486f559ac227b5

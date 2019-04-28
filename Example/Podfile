@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DropdownExtension_Example' do
+  pod 'DropdownExtension', :path => '../'
+
+  target 'DropdownExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "DropdownExtension",
+  "version": "0.1.0",
+  "summary": "A short description of DropdownExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yashtongaonkar/DropdownExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yashtongaonkar": "yashtongaonkar@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yashtongaonkar/DropdownExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DropdownExtension/Classes/**/*"
+}

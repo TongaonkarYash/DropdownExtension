@@ -1,0 +1,16 @@
+PODS:
+  - DropdownExtension (0.1.0)
+
+DEPENDENCIES:
+  - DropdownExtension (from `../`)
+
+EXTERNAL SOURCES:
+  DropdownExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DropdownExtension: 13a96f54cfb8f6972eddfbfdf28ddf4fcb77d875
+
+PODFILE CHECKSUM: 9798f90065569f8db817452c11a744594746a611
+
+COCOAPODS: 1.5.3

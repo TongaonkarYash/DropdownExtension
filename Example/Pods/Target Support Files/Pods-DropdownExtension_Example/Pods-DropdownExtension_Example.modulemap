@@ -1,0 +1,6 @@
+framework module Pods_DropdownExtension_Example {
+  umbrella header "Pods-DropdownExtension_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
